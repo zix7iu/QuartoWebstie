@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Zixuan Liu"
@@ -16,6 +17,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
