@@ -28,13 +28,6 @@
     "text": "·Defined classes for regret algorithms in Python and implemented reinforcement learning bandit models in chemistry reaction applications to optimize experimental proposals and identify optimal conditions for chemical reactions.\n\n\n·Conducted simulation to introduce experiment noises to the current dataset with NumPy in Python, and validated the performance of optimal bandit algorithms with various random noise level.\n\n\n·Website: Visit GitHub"
   },
   {
-    "objectID": "projects.html#opioid-use-disorder-treatment-stages",
-    "href": "projects.html#opioid-use-disorder-treatment-stages",
-    "title": "Projects",
-    "section": "Opioid Use Disorder Treatment Stages",
-    "text": "Opioid Use Disorder Treatment Stages\n\n·Developed SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n·Utilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n·Designed performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
-  },
-  {
     "objectID": "projects.html#tobacco-smoke-impact-on-respiratory-diseases",
     "href": "projects.html#tobacco-smoke-impact-on-respiratory-diseases",
     "title": "Projects",
@@ -61,27 +54,6 @@
     "title": "Internship",
     "section": "",
     "text": "(July 2023 – August 2023)\n\n\n·Developed SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n·Utilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n·Designed performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
-  },
-  {
-    "objectID": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.-july-2023-august-2023",
-    "href": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.-july-2023-august-2023",
-    "title": "Internship",
-    "section": "",
-    "text": "Beijing, China\n\n\n\nDeveloped SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n\nUtilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n\nDesigned performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
-  },
-  {
-    "objectID": "internship.html#business-analyst-intern---jd.com-inc.-july-2022-august-2022",
-    "href": "internship.html#business-analyst-intern---jd.com-inc.-july-2022-august-2022",
-    "title": "Internship",
-    "section": "",
-    "text": "Beijing, China - Engineered a logistic regression model to streamline compliance by predicting store risk profiles, reducing processing times by 30%. - Analyzed customer feedback using NLP techniques with Python, providing actionable insights into customer satisfaction and service quality."
-  },
-  {
-    "objectID": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.-july-2021-september-2021",
-    "href": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.-july-2021-september-2021",
-    "title": "Internship",
-    "section": "",
-    "text": "Beijing, China\n\n\nEnhanced social media engagement on TikTok, boosting follower growth by 20% through strategic content creation and optimization.\nConducted detailed analyses of livestream performance, utilizing Excel to visualize sales trends and viewer engagement metrics."
   },
   {
     "objectID": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.",
