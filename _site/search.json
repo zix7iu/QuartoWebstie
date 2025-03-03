@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Term\nCourses\nGrade\n\n\n\n\nFall 2023\nMATH 115A - Linear Algebra\nA-\n\n\nWinter 2024\nECON 103 - Intro to Econometrics\nA\n\n\nWinter 2024\nMATH 131A - Real Analysis\nA+\n\n\nWinter 2024\nMATH 134 - System Differential Equations\nA\n\n\nSpring 2024\nECON 101 - Microeconomic Theory\nA+\n\n\nSpring 2024\nSTATS 101A - Introduction to Data Analysis and Regression\nA\n\n\nSummer 2024\nSTATS 101B - Design & Analysis of Experiment\nA\n\n\nSummer 2024\nSTATS 102B - Intro to Computation & Optimization\nA\n\n\nFall 2024\nSTATS 100C - Linear Models\nA\n\n\nFall 2024\nSTATS 102C - Monte Carlo method\nA+\n\n\nFall 2024\nMATH 142 - Mathematical Modeling\nA"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I’m Zixuan Liu, better known as Lydia. I’m currently navigating my final year at UCLA, where I’m pursuing majors in both Statistics & Data Science and Mathematics/Economics.\n\n\nProfessionally, I’ve honed my analytical prowess through rigorous internships across the globe—from decoding complex datasets. My approach combines robust quantitative skills with a nuanced understanding of data storytelling, particularly aimed at refining operational strategies and influencing pivotal decisions in diverse sectors.\n\n\nBeyond the confines of data and numbers, I explore a variety of passions ranging from the precision of archery to the creative folds of origami. Each hobby offers a unique outlet for the skills I cultivate in my academic and professional life, reinforcing my belief in a well-rounded lifestyle.\n\n\nDive into my projects and experiences to discover how I merge analytical rigor with creative insight, driving impactful outcomes in everything from entertainment analytics to global market trends.\n\n\nEmail: zix7iu@g.ucla.edu LinkedIn: Visit my LinkedIn\n\nView My Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "·Defined classes for regret algorithms in Python and implemented reinforcement learning bandit models in chemistry reaction applications to optimize experimental proposals and identify optimal conditions for chemical reactions.\n\n\n·Conducted simulation to introduce experiment noises to the current dataset with NumPy in Python, and validated the performance of optimal bandit algorithms with various random noise level.\n\n\n·Website: Visit GitHub"
+  },
+  {
+    "objectID": "projects.html#bandit-algorithms-in-chemical-reaction",
+    "href": "projects.html#bandit-algorithms-in-chemical-reaction",
+    "title": "Projects",
+    "section": "",
+    "text": "·Defined classes for regret algorithms in Python and implemented reinforcement learning bandit models in chemistry reaction applications to optimize experimental proposals and identify optimal conditions for chemical reactions.\n\n\n·Conducted simulation to introduce experiment noises to the current dataset with NumPy in Python, and validated the performance of optimal bandit algorithms with various random noise level.\n\n\n·Website: Visit GitHub"
+  },
+  {
+    "objectID": "projects.html#opioid-use-disorder-treatment-stages",
+    "href": "projects.html#opioid-use-disorder-treatment-stages",
+    "title": "Projects",
+    "section": "Opioid Use Disorder Treatment Stages",
+    "text": "Opioid Use Disorder Treatment Stages\n\n·Developed SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n·Utilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n·Designed performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
+  },
+  {
+    "objectID": "projects.html#tobacco-smoke-impact-on-respiratory-diseases",
+    "href": "projects.html#tobacco-smoke-impact-on-respiratory-diseases",
+    "title": "Projects",
+    "section": "Tobacco Smoke Impact on Respiratory Diseases",
+    "text": "Tobacco Smoke Impact on Respiratory Diseases\n\n·Acquired and aggregated smoke exposure and respiratory health data from National Health and Nutrition Examination dataset, excluded rows and imputed missing values with Deep Neural Network and Datawig library in Python.\n\n\n·Built interactive dashboards with Plotly in Python and Microsoft Power BI, allowing users to visually explore the impact of tobacco smoke on respiratory diseases.\n\n\n·Website: Visit GitHub"
+  },
+  {
+    "objectID": "projects.html#joint-commitment-in-human-cooperation-task",
+    "href": "projects.html#joint-commitment-in-human-cooperation-task",
+    "title": "Projects",
+    "section": "Joint Commitment in Human Cooperation Task",
+    "text": "Joint Commitment in Human Cooperation Task\n\n·Developed a real-time interactive web application for multiplayer game in Angular with Python, TypeScript, JavaScript, and HTML, and modified the application to adapt to varying numbers of users and various trials.\n\n\n·Deployed the web application on a public server and assisted in collecting movement trajectory data from users."
+  },
+  {
+    "objectID": "projects.html#quantitative-cognition-in-graphical-representations",
+    "href": "projects.html#quantitative-cognition-in-graphical-representations",
+    "title": "Projects",
+    "section": "Quantitative Cognition in Graphical Representations",
+    "text": "Quantitative Cognition in Graphical Representations\n\n·Pre-processed data from Medicare database using SAS DATA Step, compared time spent in each treatment stages with ANOVA, and created grouped bar charts for annual patient distribution from 2018 to 2023 across stages.\n\n\n·Evaluated the impact of treatment initiation timing on relapse rates using a Marginal Structural Cox Model, demonstrated a 6% reduction in relapse following the removal of prior authorization requirements."
+  },
+  {
+    "objectID": "internship.html",
+    "href": "internship.html",
+    "title": "Internship",
+    "section": "",
+    "text": "(July 2023 – August 2023)\n\n\n·Developed SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n·Utilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n·Designed performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
+  },
+  {
+    "objectID": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.-july-2023-august-2023",
+    "href": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.-july-2023-august-2023",
+    "title": "Internship",
+    "section": "",
+    "text": "Beijing, China\n\n\n\nDeveloped SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n\nUtilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n\nDesigned performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
+  },
+  {
+    "objectID": "internship.html#business-analyst-intern---jd.com-inc.-july-2022-august-2022",
+    "href": "internship.html#business-analyst-intern---jd.com-inc.-july-2022-august-2022",
+    "title": "Internship",
+    "section": "",
+    "text": "Beijing, China - Engineered a logistic regression model to streamline compliance by predicting store risk profiles, reducing processing times by 30%. - Analyzed customer feedback using NLP techniques with Python, providing actionable insights into customer satisfaction and service quality."
+  },
+  {
+    "objectID": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.-july-2021-september-2021",
+    "href": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.-july-2021-september-2021",
+    "title": "Internship",
+    "section": "",
+    "text": "Beijing, China\n\n\nEnhanced social media engagement on TikTok, boosting follower growth by 20% through strategic content creation and optimization.\nConducted detailed analyses of livestream performance, utilizing Excel to visualize sales trends and viewer engagement metrics."
+  },
+  {
+    "objectID": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.",
+    "href": "internship.html#data-analyst-intern---meituan-dianping-co.-ltd.",
+    "title": "Internship",
+    "section": "",
+    "text": "(July 2023 – August 2023)\n\n\n·Developed SQL dashboards to monitor daily KPIs of over 400 sales personnel across 16 provinces, identifying key performance insights.\n\n\n·Utilized XGBoost machine learning models in Python to forecast regional sales, enhancing predictive accuracy by adapting model hyperparameters.\n\n\n·Designed performance metrics and incentive schemes that increased overall team KPIs by 25% through strategic data analyses and goal-setting."
+  },
+  {
+    "objectID": "internship.html#business-analyst-intern---jd.com-inc.",
+    "href": "internship.html#business-analyst-intern---jd.com-inc.",
+    "title": "Internship",
+    "section": "Business Analyst Intern - JD.com, Inc. ",
+    "text": "Business Analyst Intern - JD.com, Inc. \n\n(July 2022 – August 2022)\n\n\n·Engineered a logistic regression model to streamline compliance by predicting store risk profiles, reducing processing times by 30%.\n\n\n·Analyzed customer feedback using NLP techniques with Python, providing actionable insights into customer satisfaction and service quality."
+  },
+  {
+    "objectID": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.",
+    "href": "internship.html#marketing-analysis-intern---beijing-huihuijia-technology-co.-ltd.",
+    "title": "Internship",
+    "section": "Marketing & Analysis Intern - Beijing Huihuijia Technology Co., Ltd. ",
+    "text": "Marketing & Analysis Intern - Beijing Huihuijia Technology Co., Ltd. \n\n(July 2021 – September 2021)\n\n\n·Enhanced social media engagement on TikTok, boosting follower growth by 20% through strategic content creation and optimization.\n\n\n·Conducted detailed analyses of livestream performance, utilizing Excel to visualize sales trends and viewer engagement metrics."
+  }
+]

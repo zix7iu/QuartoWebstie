@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+## Bandit Algorithms in Chemical Reaction
+<p>·Defined classes for **regret algorithms** in Python and implemented **reinforcement learning bandit models** in chemistry reaction applications to optimize experimental proposals and identify optimal conditions for chemical reactions.<p>
+<p>·Conducted simulation to introduce experiment noises to the current dataset with **NumPy in Python**, and validated the performance of optimal bandit algorithms with various random noise level.<p>
+<p>·Website: <a href="https://github.com/zix7iu/Algorithm-Comparison-in-Chemistry" target="_blank">Visit GitHub</a></p>
+
+## Tobacco Smoke Impact on Respiratory Diseases
+<p>·Acquired and aggregated smoke exposure and respiratory health data from National Health and Nutrition Examination
+dataset, excluded rows and imputed missing values with Deep Neural Network and Datawig library in Python.<p>
+<p>·Built **interactive dashboards** with Plotly in Python and Microsoft Power BI, allowing users to visually explore the impact
+of tobacco smoke on respiratory diseases.<p>
+<p>·Website: <a href="https://github.com/zix7iu/RespiratoryHealthDashboard" target="_blank">Visit GitHub</a></p>
+
+## Joint Commitment in Human Cooperation Task
+<p>·Developed a **real-time interactive web application** for multiplayer game in Angular with Python, TypeScript, JavaScript, and HTML, and modified the application to adapt to varying numbers of users and various trials.<p>
+<p>·Deployed the web application on a public server and assisted in collecting movement trajectory data from users.<p>
+
+## Quantitative Cognition in Graphical Representations
+<p>·Pre-processed data from Medicare database using **SAS DATA Step**, compared time spent in each treatment stages with ANOVA, and created grouped bar charts for annual patient distribution from 2018 to 2023 across stages.<p>
+<p>·Evaluated the impact of treatment initiation timing on relapse rates using a **Marginal Structural Cox Model**, demonstrated a 6% reduction in relapse following the removal of prior authorization requirements.<p>
+
+<style>
+h2 {
+    color: #0056b3; 
+}
+p {
+    margin-left: 20px; 
+}
+</style>

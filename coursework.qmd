@@ -1,0 +1,17 @@
+---
+title: "Coursework"
+---
+
+| Term       | Courses                   | Grade  |
+|------------|---------------------------|-----------|
+| Fall 2023  | MATH 115A - Linear Algebra| A- |
+| Winter 2024| ECON 103 - Intro to Econometrics| A |
+| Winter 2024| MATH 131A - Real Analysis | A+ |
+| Winter 2024| MATH 134 - System Differential Equations | A |
+| Spring 2024| ECON 101 - Microeconomic Theory | A+ |
+| Spring 2024| STATS 101A - Introduction to Data Analysis and Regression | A |
+| Summer 2024| STATS 101B  - Design & Analysis of Experiment | A |
+| Summer 2024| STATS 102B  - Intro to Computation & Optimization | A |
+| Fall 2024| STATS 100C  - Linear Models | A |
+| Fall 2024| STATS 102C  - Monte Carlo method | A+ |
+| Fall 2024| MATH 142  - Mathematical Modeling | A |

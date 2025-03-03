@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Zixuan Liu"
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Coursework"
+        href: coursework.qmd
+      - text: "Internship"
+        href: internship.qmd
+      - text: "Projects"
+        href: projects.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

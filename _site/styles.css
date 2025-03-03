@@ -1,0 +1,54 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.flex-container > div {
+    padding-right: 20px; /* Apply padding-right to all divs inside the flex container except the last one */
+}
+
+.flex-container > div:last-child {
+    padding-right: 0; /* Remove padding from the last div */
+}
+
+.flex-container img {
+    width: auto;
+    height: 300px;
+    max-width: 100%;
+}
+
+.resume-button {
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block; 
+}
+
+.resume-button:hover {
+    background-color: #003f88;
+}
+
+/* Navigation Bar Styling */
+nav {
+    background-color: white; /* A nice shade of blue */
+    color: rgb(60, 146, 221);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #0056b3;
+    padding: 10px 20px;
+    text-decoration: #f58c1b;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #a0bddc; /* A darker shade of blue for hover effect */
+    border-radius: 5px;
+}
+

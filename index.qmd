@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+    <!-- Photo Column -->
+    <td style="width: 40%; padding: 20px;">
+        <img src="my_photo.jpg" alt="Lydia" style="width: 90%; height: auto; max-width: 450px;">
+    </td>
+
+    <!-- Text Column -->
+    <td style="width: 100%; padding: 10px; vertical-align: top;">
+       <p>Hello! I'm **Zixuan Liu**, better known as Lydia. I'm currently navigating my final year at UCLA, where I'm pursuing majors in both **Statistics & Data Science** and **Mathematics/Economics**.</p>
+       <p>Professionally, I've honed my analytical prowess through rigorous internships across the globe—from decoding complex datasets. My approach combines robust quantitative skills with a nuanced understanding of data storytelling, particularly aimed at refining operational strategies and influencing pivotal decisions in diverse sectors.</p>
+       <p>Beyond the confines of data and numbers, I explore a variety of passions ranging from the precision of archery to the creative folds of origami. Each hobby offers a unique outlet for the skills I cultivate in my academic and professional life, reinforcing my belief in a well-rounded lifestyle.</p>
+       <p>Dive into my projects and experiences to discover how I merge analytical rigor with creative insight, driving impactful outcomes in everything from entertainment analytics to global market trends.</p>
+       <p>Email: <a href="mailto:zix7iu@g.ucla.edu">zix7iu@g.ucla.edu</a><br>
+       LinkedIn: <a href="https://www.linkedin.com/in/zixuan-liu-4017aa258/" target="_blank">Visit my LinkedIn</a></p>
+       <a href="resume.pdf" class="resume-button" target="_blank">View My Resume</a>
+    </td>
+</tr>
+</table>
